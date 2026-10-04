@@ -1,0 +1,333 @@
+(footprint "IS4412-M1"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "46d12443-5f19-42ff-a0b5-c757feabca2a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "IS4412-M1"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fb39cd70-501b-4999-8e1b-399ceea95dc1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1edaa755-a460-4f10-95dd-38c1aed1e7a1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0936e24a-b00d-4fa5-8678-40789b12ef94")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Original MPN" ""
+		(at 13.97 -3.175 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "73f9d5c7-1fe5-4a54-87aa-3c05333fd4ab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "TOpMax" ""
+		(at 13.97 -3.175 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "d8b1454b-0611-44ad-bdab-66766a85798e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "TOpMin" ""
+		(at 13.97 -3.175 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "00e5d2c1-2fb1-4670-9d1d-dfe1e697d42e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Sim.Device" ""
+		(at 13.97 -3.175 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "a8632e59-8639-4511-b67d-95ed15eaaa54")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Sim.Pins" ""
+		(at 13.97 -3.175 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "ccb73c8d-c7f7-4cf8-9e60-ff3e1e3c645d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "MPN1" ""
+		(at 13.97 -3.175 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "73087b5c-5beb-40e8-bc56-24c48ed69771")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "MPN2" ""
+		(at 13.97 -3.175 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "f4a4b956-59b0-4a54-a497-99e8485c259d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "MPN3" ""
+		(at 13.97 -3.175 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "b5782a67-edbf-4254-be80-4e0a108516d4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Manufacturer" ""
+		(at 13.97 -3.175 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "b107b8ea-6ad1-475e-ae24-9ebf39232de0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Original MPN#" ""
+		(at 13.97 -3.175 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "4c13ce6a-818b-4c83-abba-a5a4f469fb53")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Power" ""
+		(at 2.54 8.89 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "7211e390-f359-437d-9311-47dfe5bfbf22")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Temperature Coefficient" ""
+		(at 2.54 8.89 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "a5a78ecc-0539-475a-9bf3-19b3e5c81590")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Tolerance" ""
+		(at 2.54 8.89 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "82ed249e-c0f5-45bb-a1f4-ecf5cdfff54f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start 1.2446 -5.08)
+		(end 16.4846 11.43)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "12ebc6f0-ea17-4305-952f-73423feca14c")
+	)
+	(fp_rect
+		(start 1.15 -5.2)
+		(end 16.55 11.55)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "14312228-d6a3-4e97-ab99-3c8c4204e2ea")
+	)
+	(fp_line
+		(start 1.27 2.54)
+		(end 1.27 9.525)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "B.Fab")
+		(uuid "24fe60f5-e163-4e3d-b789-7da792b9a404")
+	)
+	(fp_line
+		(start 1.27 2.54)
+		(end 1.27 9.525)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "B.Fab")
+		(uuid "c214dafd-6cca-438e-8a5e-90858274999e")
+	)
+	(pad "1" thru_hole rect
+		(at 2.54 3.81 180)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "bae04ffb-b5c8-44a7-91bb-fa5696984e45")
+	)
+	(pad "2" thru_hole circle
+		(at 2.54 6.35 180)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "709c618a-e14e-42bb-9401-7e7ca0862e49")
+	)
+	(pad "3" thru_hole circle
+		(at 2.54 8.89 180)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "707ad1b9-099b-4a3e-9ba7-7bb58bc9c436")
+	)
+	(pad "4" thru_hole circle
+		(at 15.24 8.89 180)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f20b6e03-7977-44f8-abeb-e29f752a267b")
+	)
+	(pad "5" thru_hole circle
+		(at 15.24 6.35 180)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "fce0d430-3595-4ae6-aec6-a8ad9a9e89c9")
+	)
+	(pad "6" thru_hole circle
+		(at 15.24 3.81 180)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "59163e50-522b-49d4-a2ae-29ad3e5ce59b")
+	)
+	(embedded_fonts no)
+)
